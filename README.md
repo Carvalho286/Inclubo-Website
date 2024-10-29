@@ -1,5 +1,5 @@
 # Inclubo Website
-Just a prototype from a project on my latest Erasmus+ project in Poland.
+Just a prototype from a project on my Erasmus+ project in Poland.
 
 ### Goal
 The main goal of this website was to allow everyone to listen to any audiobook in  any language.
